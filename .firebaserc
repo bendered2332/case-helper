@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "case-helper-9d96e": {
+      "hosting": {
+        "case-helper": [
+          "case-helper-9d96e"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "case-helper-9d96e"
+  }
+}
