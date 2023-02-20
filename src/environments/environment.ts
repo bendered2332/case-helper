@@ -4,15 +4,15 @@
 
 export const environment = {
   production: false,
-  firebase : {
-    apiKey: "AIzaSyDbhdWawp0lmRKtCzg_0jmA_dy_pk2gKfg",
-    authDomain: "hotel-management-3390d.firebaseapp.com",
-    projectId: "hotel-management-3390d",
-    storageBucket: "hotel-management-3390d.appspot.com",
-    messagingSenderId: "1010076842792",
-    appId: "1:1010076842792:web:a1f076a7eb815a0aae6e1d"
+    firebase: {
+    apiKey: "AIzaSyAG3cNOddp11ZIqPmmD_TQ3nyQe04wnA7Y",
+    authDomain: "case-helper-9d96e.firebaseapp.com",
+    projectId: "case-helper-9d96e",
+    storageBucket: "case-helper-9d96e.appspot.com",
+    messagingSenderId: "1006207073204",
+    appId: "1:1006207073204:web:0e4afd30acc7f22521d0e1"
   }
-};
+  };
 
 /*
  * For easier debugging in development mode, you can import the following file

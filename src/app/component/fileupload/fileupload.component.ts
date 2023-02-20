@@ -61,7 +61,6 @@ export class FileuploadComponent implements OnInit {
         this.listOfFiles = res.map((e : any) => {
             const data = e.payload.doc.data();
             data.id = e.payload.doc.id;
-            //console.log(data);
             return data;
         });
     }, err => {

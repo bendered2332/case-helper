@@ -8,7 +8,7 @@ import { RegisterComponent } from './component/register/register.component';
 import { VerifyEmailComponent } from './component/verify-email/verify-email.component';
 
 const routes: Routes = [
-   {path: '', redirectTo:'file-upload', pathMatch:'full'},
+  {path: '', redirectTo:'dashboard', pathMatch:'full'},
   {path: 'login', component : LoginComponent},
   {path: 'dashboard', component : DashboardComponent},
   {path: 'register', component : RegisterComponent},
