@@ -11,7 +11,9 @@ describe('VerifyEmailComponent', () => {
       declarations: [ VerifyEmailComponent ]
     })
     .compileComponents();
+  });
 
+  beforeEach(() => {
     fixture = TestBed.createComponent(VerifyEmailComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
